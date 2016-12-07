@@ -1,2 +1,11 @@
-# First-Repository_Actual
-First attempt, mostly meant as a blank space for me to try out HTML coding, which I am learning.
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>New Webpage</title>
+    </head>
+    <body>
+
+    
+    </body>
+</html>
